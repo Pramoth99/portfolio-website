@@ -1,0 +1,149 @@
+{
+  "summary": "A data analyst with 8 years of experience in Software Development, skilled in SQL, Python and C#, leveraging coding skills to extract insights from intricate datasets. Proven track record of developing efficient algorithms now applied to analyze data trends, visualize data, employ elicitation techniques to drive informed business decisions with a strong commitment to realization of projects from conception to deployment.",
+  "skills": {
+    "programming": "Python, C#, SQL/TSQL",
+    "software": "MS-Excel, MS-Power BI, Tableu, Jupyter, MS-Visio, Snoflake, MS-Powerpoint, VSCode",
+    "frameworks": "Pandas, Numpy, Matplotlib",
+    "database": "Microsoft SQL server 16+, PostgreSQL",
+    "productivityTools": "Git, Confluence, Jira, Lucid chart"
+  },
+  "professionalExperience": [
+    {
+      "jobTitle": "Software Developer",
+      "companyName": "Cyber Legends Inc - Ontario, CA",
+      "duration": "Jun 2023 – Apr 2024",
+      "productName": "2D Open World Game & Framework Engine (WebGL|Android|iOS):",
+      "projectDescription": [
+        "Engineered multiple KIDS SAFE educational applications using Unity engine and C# using Agile/Scrum methodology, integrated google analytics for tracking user’s actions with success rate of 99.8% and sent to data warehouse platform snowflake where it’s later analyzed.",
+        "Automated end-to-end build process of package bundles and builds by writing Python shell scripts in tandem with Jenkins CI/CD pipeline."
+      ],
+      "projectLink": [
+        {
+          "linkType": "url",
+          "icon":"android",
+          "linkName": "Kidzooly - ABC Songs and Nursery Rhymes",
+          "linkDesc": "Kidzooly",
+          "linkUrl": "https://play.google.com/store/apps/details?id=kidzooly.rhymes"
+        },
+        {
+          "linkType": "url",
+          "icon":"android",
+          "linkName": "Tabby Too - Kids Learning Game",
+          "linkDesc": "",
+          "linkUrl": "https://play.google.com/store/apps/details?id=com.kidzooly.tinytoo"
+        }
+      ]
+    },
+    {
+      "jobTitle": "Software Developer",
+      "companyName": "Dumadu Studios Pvt.Ltd – Bangalore",
+      "duration": "Apr 2019 – Jun 2019 ",
+      "productName": "Ping Pong Stars:",
+      "projectDescription": [
+        "Involved in gameplay feature development using C# and Unity3d, live operations, tech design and closely collaborated with cross functional teams with agile methodology to elicit requirements and continuously updated the status with the stakeholders. "
+      ],
+      "projectLink": [
+        {
+          "linkType": "url",
+          "icon":"android",
+          "linkName": "Ping Pong Stars",
+          "linkDesc": "Play store",
+          "linkUrl": "https://play.google.com/store/apps/details?id=com.dumadugames.gp.pingpongtennis"
+        }
+      ]
+    },
+    {
+      "jobTitle": "Software Developer",
+      "companyName": "Gboom Software Pvt.Ltd – Chennai",
+      "duration": "May 2017 – Nov 2018",
+      "productName": "Casual Games",
+      "projectDescription": [
+        "Experienced with a full life cycle of software development- SDLC: use cases, requirements, high-level design, low-level design, writing unit test cases and adhering to SOLID principles, extremely data-driven and avoiding concrete dependency using abstraction layers. ",
+        "Practiced optimization techniques like object pooling, image nine slicing, sprite atlases, LODs, occlusions, model optimization and efficient usage GC like avoiding temporary allocations, unused references, immutability of string, endorsing value types across application. "
+      ]
+    }
+  ],
+  "personalProjects": [
+    {
+      "projectName": "Hotel Reservations SQL Project:",
+      "projectDescription": [
+        "Developed SQL Server database project tailored for hotel reservations, executing CRUD operations, designing reusable views, and orchestrating intricate queries, column-store indexing, stored procedures, and aggregate and scalar functions ensuring reusability of queries up to 80%.",
+        "Boosted the performance of the hotel reservations system database by implementing indexing techniques and optimizing schema design with both clustered and non-clustered indexes, resulting in a remarkable 40% increase in efficiency, as evidenced by improved query execution times."
+      ],
+      "projectLink": [
+        {
+          "linkType": "url",  
+          "icon":"github",
+          "linkName": "GitHub Repo",
+          "linkDesc": "Hotel Guest SQL ",
+          "linkUrl": "https://github.com/ramya-krishnasamy/Landon-Hotel"
+        }
+      ]
+    },
+    {
+      "projectName": "Okinawa Motors e-bike Simulation - iPad",
+      "projectDescription": [
+        "A High fidelity simulation application for Japanese electric scooter maker ‘Okinawa Motors’ showcasing new models describing all the scooter's features with post processing effects.",
+        "Ad hoc distribution to entire Tamil Nadu Okinawa dealers on the iPads and Macs for the showrooms"
+      ],
+      "projectLink": [
+        {
+          "linkType": "url",
+          "linkName": "Okinawa Showroom",
+          "linkDesc": "Simulation - Mac Application",
+          "linkUrl": "https://drive.google.com/file/d/1rk830inKQeuzG11MriPfsiptOmlkuYbE/view?usp=sharing"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "courseName": "Conestoga College",
+      "collegeName": "Information Technology and Business Analysis",
+      "duration": "Jan 2023 - Apr 2024",
+      "courseDescription": [
+        "Mastering BI tools to create statistical analysis, data mining and predictive modelling to derive meaningful insights from the dataset by connecting to data source, preparing, aggregating, creating interactive dashboards, stories, and forecasting trends while maintaining security.",
+        "Upgrading database knowledge on MS-SQL Server by building database for e-commerce platform and optimising by indexing, normalizing for reducing redundancy, de-normalizing to reduce extra joins and tracking performance in query store resulting in performance gain of 35%.",
+        "Spearheaded capstone as Project Manager with 5 team members to understand and improve business architecture of RBC breaking down financial and business fundamentals by elicitation tools like observation, brainstorming, workshops potentially improving 15% in productivity.",
+        "Orchestrated proficiency in programming languages in Python, SQL to realize data warehouse (ETL) concepts like Data extraction, Transformation, Storage, Retrieval and Analysis, meta data management using data manipulation libraries like Pandas and NumPy."
+      ],
+      "projectLink": [
+        {
+          "linkType": "url",
+          "icon":"data",
+          "linkName": "Visualization",
+          "linkDesc": "Tableau Public Live",
+          "linkUrl": "https://public.tableau.com/app/profile/ramya.krishnasamy/viz/EmploymentRateinCanada/Story?publish=yes"
+        },
+        {
+          "linkType": "url",
+          "icon":"github",
+          "linkName": "GitHub Repo",
+          "linkDesc": "E-Commerce SQL Dataset",
+          "linkUrl": "https://github.com/ramya-krishnasamy/ecommerce-datasql"
+        }
+      ]
+    },
+    {
+      "courseName": "Anna University",
+      "collegeName": "Computer Science and Engineering",
+      "duration": "Aug 2010 - Apr 2014",
+      "courseDescription": [
+        "Commenced with strong fundamentals of computer science like Object-Oriented Programming and Data structure algorithms."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "certificationDescription":"Microsoft SQL Server 2019 Essential Training",
+      "icon":"linkedin",
+      "certificationName": "CompTIA®",
+      "certificationLink": "https://www.linkedin.com/learning/certificates/deae6968011f963d1f8016a28ce05d3b74f729339dbea41f8648b4cfabc0b57e?u=2212217"
+    },{
+      "certificationDescription":"Microsoft Certified Technology Specialist (MCTS)",
+      "icon":"none",
+      "certificationName": ".Net framework 4 C#",
+      "certificationLink": "https://www.linkedin.com/learning/certificates/deae6968011f963d1f8016a28ce05d3b74f729339dbea41f8648b4cfabc0b57e?u=2212217"
+    }
+  ]
+}

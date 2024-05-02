@@ -1,0 +1,23 @@
+textstyle: {
+  textalign: "center";
+  fontweight: "bold";
+  fontstyle: "italic";
+  fontsize: 20;
+  textdecorationline: "underline";
+}
+
+.bgstyle {
+  backgroundImage: `url(${bg})`;
+  height: "100vh";
+  backgroundSize: "cover";
+  backgroundRepeat: "repeat";
+  overflow:"scroll"
+}
+
+.separator {
+  height: 10px;
+  background-color: red;
+  border: none;
+}
+
+
