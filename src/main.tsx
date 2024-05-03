@@ -17,7 +17,7 @@ const myStyle = {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/portfolio-website/",
     element: <App />,
   }
 ]);
