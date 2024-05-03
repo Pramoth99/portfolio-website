@@ -25,6 +25,7 @@ function App() {
   const summary = useRef<HTMLDivElement>(null);
   const personalProject = useRef<HTMLDivElement>(null);
   const displayEducation = useRef<HTMLDivElement>(null);
+  const certification = useRef<HTMLDivElement>(null);
 
   return (
     <div>
@@ -33,7 +34,7 @@ function App() {
         skillsCard={skills}
         educationCard={displayEducation}
         PersonalProjectCard={personalProject}
-        certification={undefined} />
+        certification={certification} />
       <Container>
         <Row>
           <Col md={10} sm={8} lg={10} className='mx-auto'>
@@ -43,7 +44,7 @@ function App() {
             <div ref={skills} className='pt-5'>
               <Skills skills={portfolioData?.skills} />
             </div>
-            <div ref={summary} className='pt-5'>
+            <div ref={certification} className='pt-5'>
               <Certifications certifications={portfolioData?.certifications} />
             </div>
             <div ref={displayEducation} className='pt-5'>
