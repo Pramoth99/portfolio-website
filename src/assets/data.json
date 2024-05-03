@@ -2,7 +2,7 @@
   "summary": "A data analyst with 8 years of experience in Software Development, skilled in SQL, Python and C#, leveraging coding skills to extract insights from intricate datasets. Proven track record of developing efficient algorithms now applied to analyze data trends, visualize data, employ elicitation techniques to drive informed business decisions with a strong commitment to realization of projects from conception to deployment.",
   "skills": {
     "programming": "Python, C#, SQL/TSQL",
-    "software": "MS-Excel, MS-Power BI, Tableu, Jupyter, MS-Visio, Snoflake, MS-Powerpoint, VSCode",
+    "software": "MS-Excel, MS-Power BI, Tableau, Jupyter, MS-Visio, Snowflake, MS-Powerpoint, VSCode, Unity3d, Google sheets",
     "frameworks": "Pandas, Numpy, Matplotlib",
     "database": "Microsoft SQL server 16+, PostgreSQL",
     "productivityTools": "Git, Confluence, Jira, Lucid chart"
@@ -10,9 +10,9 @@
   "professionalExperience": [
     {
       "jobTitle": "Software Developer",
-      "companyName": "Cyber Legends Inc - Ontario, CA",
-      "duration": "Jun 2023 – Apr 2024",
-      "productName": "2D Open World Game & Framework Engine (WebGL|Android|iOS):",
+      "companyName": "VGMinds TechStudios Pvt.Ltd",
+      "duration": "Dec 2019 - Oct 2022",
+      "productName": "Kidzooly Games:",
       "projectDescription": [
         "Engineered multiple KIDS SAFE educational applications using Unity engine and C# using Agile/Scrum methodology, integrated google analytics for tracking user’s actions with success rate of 99.8% and sent to data warehouse platform snowflake where it’s later analyzed.",
         "Automated end-to-end build process of package bundles and builds by writing Python shell scripts in tandem with Jenkins CI/CD pipeline."
@@ -83,8 +83,8 @@
     {
       "projectName": "Okinawa Motors e-bike Simulation - iPad",
       "projectDescription": [
-        "A High fidelity simulation application for Japanese electric scooter maker ‘Okinawa Motors’ showcasing new models describing all the scooter's features with post processing effects.",
-        "Ad hoc distribution to entire Tamil Nadu Okinawa dealers on the iPads and Macs for the showrooms"
+        "A high fidelity simulation application for Japanese electric scooter maker ‘Okinawa Motors’ showcasing new models describing all the scooter's features with post processing effects.",
+        "Ad hoc distribution to entire Tamil Nadu,India Okinawa dealers on the iPads and Macs for the showrooms"
       ],
       "projectLink": [
         {
