@@ -81,6 +81,28 @@
       ]
     },
     {
+      "projectName": "Retail Sales (Python - Pandas,Numpy,Matplotlib)",
+      "projectDescription":[
+        "Orchestrated proficiency in programming languages in Python to realize data warehouse (ETL) concepts like Data extraction, Transformation, Storage, Retrieval and Analysis, meta data management using data manipulation libraries like Pandas, NumPy and matplotlib.",
+        "Demonstrated my proficiency in using Python libraries like NumPy, Pandas, Matplotlib to perform data cleaning, pre-processing, and creating a variety of data visualizations such as line charts, bar graphs, histograms, scatter plots, and heatmaps."
+      ],"projectLink": [
+        {
+          "linkType": "url",  
+          "icon":"drive",
+          "linkName": "DropBox",
+          "linkDesc": "Python Google Collab -",
+          "linkUrl": "https://colab.research.google.com/drive/1RVpCl9kZ8QWhABjZzU_jtQ1vlRfWdaUz"
+        },
+        {
+          "linkType": "url",
+          "icon":"drive",
+          "linkName": "ipynb files",
+          "linkDesc": "Python framework script -",
+          "linkUrl": "https://drive.google.com/drive/folders/137gA8Wjg02xnJREBqXAFQ3jDXjvzZi7S"
+        }
+      ]
+    },
+    {
       "projectName": "Okinawa Motors e-bike Simulation - iPad",
       "projectDescription": [
         "A high fidelity simulation application for Japanese electric scooter maker ‘Okinawa Motors’ showcasing new models describing all the scooter's features with post processing effects.",
@@ -104,8 +126,7 @@
       "courseDescription": [
         "Mastering BI tools to create statistical analysis, data mining and predictive modelling to derive meaningful insights from the dataset by connecting to data source, preparing, aggregating, creating interactive dashboards, stories, and forecasting trends while maintaining security.",
         "Upgrading database knowledge on MS-SQL Server by building database for e-commerce platform and optimising by indexing, normalizing for reducing redundancy, de-normalizing to reduce extra joins and tracking performance in query store resulting in performance gain of 35%.",
-        "Spearheaded capstone as Project Manager with 5 team members to understand and improve business architecture of RBC breaking down financial and business fundamentals by elicitation tools like observation, brainstorming, workshops potentially improving 15% in productivity.",
-        "Orchestrated proficiency in programming languages in Python, SQL to realize data warehouse (ETL) concepts like Data extraction, Transformation, Storage, Retrieval and Analysis, meta data management using data manipulation libraries like Pandas and NumPy."
+        "Spearheaded capstone as Project Manager with 5 team members to understand and improve business architecture of RBC breaking down financial and business fundamentals by elicitation tools like observation, brainstorming, workshops potentially improving 15% in productivity."
       ],
       "projectLink": [
         {
