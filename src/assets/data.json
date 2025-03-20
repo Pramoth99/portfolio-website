@@ -1,119 +1,90 @@
 {
-  "summary": "A data analyst with 8 years of experience in Software Development, skilled in SQL, Python and C#, leveraging coding skills to extract insights from intricate datasets. Proven track record of developing efficient algorithms now applied to analyze data trends, visualize data, employ elicitation techniques to drive informed business decisions with a strong commitment to realization of projects from conception to deployment.",
+  "summary": "Proactive .NET Core developer with 5 years of experience in building scalable web applications, cloud solutions, and game development. Passionate about optimizing performance and delivering innovative software solutions.",
   "skills": {
-    "programming": "Python, C#, SQL/TSQL",
-    "software": "MS-Excel, MS-Power BI, Tableau, Jupyter, MS-Visio, Snowflake, MS-Powerpoint, VSCode, Unity3d, Google sheets",
-    "frameworks": "Pandas, Numpy, Matplotlib",
+    "programming": "C#, SQL, Typescript, HTML5, CSS3",
+    "backend & Web":"ASP.Net Core (MVC | Web API), React, Bootstrap",
+    "software": "Visual Studio, VS Code",
+    "Cloud & Services": "AWS (SQS, Lambda), Docker",
     "database": "Microsoft SQL server 16+, PostgreSQL",
-    "productivityTools": "Git, Confluence, Jira, Lucid chart"
+    "productivityTools": "Entity Framework, xUnit, .Net CLI, LINQ, Git, Jenkins CI/CD"
   },
   "professionalExperience": [
     {
-      "jobTitle": "Software Developer",
-      "companyName": "VGMinds TechStudios Pvt.Ltd",
-      "duration": "Dec 2019 - Oct 2022",
-      "productName": "Kidzooly Games:",
+      "jobTitle": "Junior Software Developer",
+      "companyName": "SashasTrends Inc – Waterloo, ON",
+      "duration": "July 2024 – Mar 2025",
+      "productName": "Sashas Trends.com (C#|.Net Core 7):",
       "projectDescription": [
-        "Engineered multiple KIDS SAFE educational applications using Unity engine and C# using Agile/Scrum methodology, integrated google analytics for tracking user’s actions with success rate of 99.8% and sent to data warehouse platform snowflake where it’s later analyzed.",
-        "Automated end-to-end build process of package bundles and builds by writing Python shell scripts in tandem with Jenkins CI/CD pipeline."
+        "Engineered a .Net Core MVC Content Management System utilizing patterns such as Dependency Injection (DI) to dynamically manage contents where content managers update the product in the database.",
+        "Collaborated with senior developers to build a highly scalable .NET Core 7 backend Web APIs with Entity Framework Core and MS-SQL Server to serve react application with authentication and authorization enabled.",
+        "Developed using Test-Driven Development (TDD) approach writing test cases using xUnit with coverage of 80% and documenting design for each production release, facilitating knowledge sharing across the organization.",
+        "Contributed to employing React SPA to craft a responsive and smooth client interface, integrating Redux for centralized state management and REST APIs for efficient and faster data fetching, reducing bounce rates. ",
+        "Designed database in SQL Server 2016 and created stored procedures, functions, and views to reduce the complication of front-end SQL Queries and triggers to enforce entity relationships."
       ],
       "projectLink": [
         {
           "linkType": "url",
-          "icon":"android",
-          "linkName": "Kidzooly - ABC Songs and Nursery Rhymes",
-          "linkDesc": "Kidzooly",
-          "linkUrl": "https://play.google.com/store/apps/details?id=kidzooly.rhymes"
-        },
+          "icon":"web",
+          "linkName": "Full Stack",
+          "linkDesc": "Website",
+          "linkUrl": "https://www.sashastrends.com/?srsltid=AfmBOops79KvCiIa98meta95JZZ3hrBqBGT-LIK5LZeI54X84SIpaSVA"
+        }
+      ]
+    },
+    {
+      "jobTitle": "Software Developer",
+      "companyName": "VGMinds TechStudio – Bangalore, India",
+      "duration": "Dec 2019 – Oct 2022",
+      "productName": "Kidzooly Games (C#|Unity3D)",
+      "projectDescription": [
+        "Developed casual games using Unity engine, creating KIDSAFE gameplay experience with features like activities, in-app purchases, parental control, rewards system, ads, and secure-encrypted video playback.",
+        "Contributed to game play feature implementing state machine, internal game-wide event system, quest system, game mechanics and UI implementation, backend support maintaining large database running SQL server and .Net Core 6.",
+        "Delivered a dynamic content delivery system using Rest APIs and JSON, packaging and updating the contents of the app without to update the physical app binary with coverage of 90%.",
+        "Implemented optimisation techniques like object pooling, slicing, atlases, LODs, occlusions, and reducing GC usage by avoiding temporary allocations on every frame, string mutations and endorsing value types across application."
+      ],
+      "projectLink": [
         {
           "linkType": "url",
-          "icon":"android",
-          "linkName": "Tabby Too - Kids Learning Game",
-          "linkDesc": "",
+          "icon": "web",
+          "linkName": "Kidzooly",
+          "linkDesc": "ABC Songs and Nursery Rhymes",
+          "linkUrl": "https://play.google.com/store/apps/details?id=kidzooly.rhymes"
+        },{
+          "linkType": "url",
+          "icon": "web",
+          "linkName": "Tabby Too",
+          "linkDesc": "Kids Learning Game",
           "linkUrl": "https://play.google.com/store/apps/details?id=com.kidzooly.tinytoo"
         }
       ]
     },
     {
       "jobTitle": "Software Developer",
-      "companyName": "Dumadu Studios Pvt.Ltd – Bangalore",
-      "duration": "Apr 2019 – Jun 2019 ",
-      "productName": "Ping Pong Stars:",
-      "projectDescription": [
-        "Involved in gameplay feature development using C# and Unity3d, live operations, tech design and closely collaborated with cross functional teams with agile methodology to elicit requirements and continuously updated the status with the stakeholders. "
-      ],
-      "projectLink": [
-        {
-          "linkType": "url",
-          "icon":"android",
-          "linkName": "Ping Pong Stars",
-          "linkDesc": "Play store",
-          "linkUrl": "https://play.google.com/store/apps/details?id=com.dumadugames.gp.pingpongtennis"
-        }
-      ]
-    },
-    {
-      "jobTitle": "Software Developer",
       "companyName": "Gboom Software Pvt.Ltd – Chennai",
-      "duration": "May 2017 – Nov 2018",
+      "duration": "May 2017 – Jun 2019",
       "productName": "Casual Games",
       "projectDescription": [
-        "Experienced with a full life cycle of software development- SDLC: use cases, requirements, high-level design, low-level design, writing unit test cases and adhering to SOLID principles, extremely data-driven and avoiding concrete dependency using abstraction layers. ",
-        "Practiced optimization techniques like object pooling, image nine slicing, sprite atlases, LODs, occlusions, model optimization and efficient usage GC like avoiding temporary allocations, unused references, immutability of string, endorsing value types across application. "
+        "Crafted intricate run-time asset management system with asset bundles that dynamically updates the game elements reducing build size by 90% that are mapped by application version built for different mobile platforms.",
+        "Implemented multiple distributed systems such as network, asset management, backend CMS, users, profiles, inventory management, quest services that are decoupled and employing unit tests cases for all of them.",
+        "Developed an open world game and contributed to quests engine, NPC AI, microservices, economy, inventory management, runtime asset management, user session and optimizing render pipelines, memory, resulting in 45% performance gain.",
+        "Experienced with a full life cycle of software development- SDLC: use cases, requirements, high-level design, low-level design, implementation and writing unit test cases and avoiding concrete dependency using abstractions."
       ]
     }
   ],
   "personalProjects": [
     {
-      "projectName": "Hotel Reservations SQL Project:",
+      "projectName": "Book Shop Project",
       "projectDescription": [
-        "Developed SQL Server database project tailored for hotel reservations, executing CRUD operations, designing reusable views, and orchestrating intricate queries, column-store indexing, stored procedures, and aggregate and scalar functions ensuring reusability of queries up to 80%.",
-        "Boosted the performance of the hotel reservations system database by implementing indexing techniques and optimizing schema design with both clustered and non-clustered indexes, resulting in a remarkable 40% increase in efficiency, as evidenced by improved query execution times."
+        "Developed SQL Server database project tailored for Book reservations, executing CRUD operations, designing reusable views, and orchestrating intricate queries, column-store indexing, stored procedures, and aggregate and scalar functions ensuring reusability of queries up to 80%.",
+        "Boosted the performance of the reservations system database by implementing indexing techniques and optimizing schema design with both clustered and non-clustered indexes, resulting in a remarkable 40% increase in efficiency, as evidenced by improved query execution times."
       ],
       "projectLink": [
         {
-          "linkType": "url",  
+          "linkType": "url",
           "icon":"github",
           "linkName": "GitHub Repo",
-          "linkDesc": "Hotel Guest SQL ",
-          "linkUrl": "https://github.com/ramya-krishnasamy/Landon-Hotel"
-        }
-      ]
-    },
-    {
-      "projectName": "Retail Sales (Python - Pandas,Numpy,Matplotlib)",
-      "projectDescription":[
-        "Orchestrated proficiency in programming languages in Python to realize data warehouse (ETL) concepts like Data extraction, Transformation, Storage, Retrieval and Analysis, meta data management using data manipulation libraries like Pandas, NumPy and matplotlib.",
-        "Demonstrated my proficiency in using Python libraries like NumPy, Pandas, Matplotlib to perform data cleaning, pre-processing, and creating a variety of data visualizations such as line charts, bar graphs, histograms, scatter plots, and heatmaps."
-      ],"projectLink": [
-        {
-          "linkType": "url",  
-          "icon":"drive",
-          "linkName": "DropBox",
-          "linkDesc": "Python Google Collab -",
-          "linkUrl": "https://colab.research.google.com/drive/1RVpCl9kZ8QWhABjZzU_jtQ1vlRfWdaUz"
-        },
-        {
-          "linkType": "url",
-          "icon":"drive",
-          "linkName": "ipynb files",
-          "linkDesc": "Python framework script -",
-          "linkUrl": "https://drive.google.com/drive/folders/137gA8Wjg02xnJREBqXAFQ3jDXjvzZi7S"
-        }
-      ]
-    },
-    {
-      "projectName": "Okinawa Motors e-bike Simulation - iPad",
-      "projectDescription": [
-        "A high fidelity simulation application for Japanese electric scooter maker ‘Okinawa Motors’ showcasing new models describing all the scooter's features with post processing effects.",
-        "Ad hoc distribution to entire Tamil Nadu,India Okinawa dealers on the iPads and Macs for the showrooms"
-      ],
-      "projectLink": [
-        {
-          "linkType": "url",
-          "linkName": "Okinawa Showroom",
-          "linkDesc": "Simulation - Mac Application",
-          "linkUrl": "https://drive.google.com/file/d/1rk830inKQeuzG11MriPfsiptOmlkuYbE/view?usp=sharing"
+          "linkDesc": "Bulky book",
+          "linkUrl": "https://github.com/ramya-krishnasamy/bulky"
         }
       ]
     }
@@ -126,7 +97,8 @@
       "courseDescription": [
         "Mastering BI tools to create statistical analysis, data mining and predictive modelling to derive meaningful insights from the dataset by connecting to data source, preparing, aggregating, creating interactive dashboards, stories, and forecasting trends while maintaining security.",
         "Upgrading database knowledge on MS-SQL Server by building database for e-commerce platform and optimising by indexing, normalizing for reducing redundancy, de-normalizing to reduce extra joins and tracking performance in query store resulting in performance gain of 35%.",
-        "Spearheaded capstone as Project Manager with 5 team members to understand and improve business architecture of RBC breaking down financial and business fundamentals by elicitation tools like observation, brainstorming, workshops potentially improving 15% in productivity."
+        "Spearheaded capstone as Project Manager with 5 team members to understand and improve business architecture of RBC breaking down financial and business fundamentals by elicitation tools like observation, brainstorming, workshops potentially improving 15% in productivity.",
+        "Orchestrated proficiency in programming languages in Python, SQL to realize data warehouse (ETL) concepts like Data extraction, Transformation, Storage, Retrieval and Analysis, meta data management using data manipulation libraries like Pandas and NumPy."
       ],
       "projectLink": [
         {
@@ -164,7 +136,7 @@
       "certificationDescription":"Microsoft Certified Technology Specialist (MCTS)",
       "icon":"none",
       "certificationName": ".Net framework 4 C#",
-      "certificationLink": "https://drive.google.com/file/d/1zg6whedhbiq9UAsSbKBgLQs-nzPGH1qb/view?usp=sharing"
+      "certificationLink": "https://www.linkedin.com/learning/certificates/deae6968011f963d1f8016a28ce05d3b74f729339dbea41f8648b4cfabc0b57e?u=2212217"
     }
   ]
 }
