@@ -30,12 +30,12 @@ export default function ProfessionalExperience({ experiences }: Props) {
                             return <div className="text-black">
                                 {index > 0 && <hr />}
                                 <Row>
-                                    <Col md={4} className=" text-center text-highlight">
+                                    <Col md={4}>
                                         <div>
                                             <h5>  {expirence?.jobTitle} </h5>
                                         </div>
                                     </Col>
-                                    <Col md={4}>
+                                    <Col md={4} className=" text-center text-highlight">
                                         <div >
                                             <h5>{expirence?.companyName}</h5>
                                         </div>
