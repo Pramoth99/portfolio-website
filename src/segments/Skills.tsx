@@ -30,18 +30,23 @@ export default function Skill({skills}:Props) {
                         </tr>
                         <tr>
                             <td>2</td>
-                            <td>Software and Dev Tools</td>
-                            <td>{skills &&  skills.software}</td>
+                            <td>Backend & Web</td>
+                            <td>{skills &&  skills.backendWeb}</td>
                         </tr>
                         <tr>
                             <td>3</td>
-                            <td>Frameworks</td>
-                            <td>{skills && skills.frameworks}</td>
+                            <td>Cloud & Services</td>
+                            <td>{skills && skills.cloudServices}</td>
                         </tr>
                         <tr>
                             <td>4</td>
-                            <td>Server & Database</td>
+                            <td>Database</td>
                             <td>{skills && skills.database}</td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>Design Patterns</td>
+                            <td>{skills && skills.designPatterns}</td>
                         </tr>
                         <tr>
                             <td>6</td>

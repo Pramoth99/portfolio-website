@@ -9,12 +9,11 @@ export interface Portfolio {
 
 export interface Skills {
     programming: string;
-    software: string;
-    frameworks: string;
+    backendWeb: string;
+    cloudServices: string;
     database: string;
     designPatterns: string;
     productivityTools: string;
-    extra:string;
 }
 
 export interface Experience {
