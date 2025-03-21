@@ -2,10 +2,10 @@
   "summary": "Proactive .NET Core developer with 5 years of experience in building scalable web applications, cloud solutions, and game development. Passionate about optimizing performance and delivering innovative software solutions.",
   "skills": {
     "programming": "C#, SQL, Typescript, HTML5, CSS3",
-    "backend & Web":"ASP.Net Core (MVC | Web API), React, Bootstrap",
-    "software": "Visual Studio, VS Code",
-    "Cloud & Services": "AWS (SQS, Lambda), Docker",
+    "backendWeb":"ASP.Net Core (MVC | Web API), React, Bootstrap",
+    "cloudServices": "AWS (SQS, Lambda), Docker",
     "database": "Microsoft SQL server 16+, PostgreSQL",
+    "designPatterns":"Dependency Injection, Microservices, Domain-Driven Design",
     "productivityTools": "Entity Framework, xUnit, .Net CLI, LINQ, Git, Jenkins CI/CD"
   },
   "professionalExperience": [

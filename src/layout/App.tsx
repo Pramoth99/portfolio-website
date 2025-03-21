@@ -44,7 +44,7 @@ function App() {
             <div ref={skills} className='pt-5'>
               <Skills skills={portfolioData?.skills} />
             </div>
-            <div ref={professtionalExp} className='pt-5  pb-5'>
+            <div ref={professtionalExp} className='pt-5'>
               <ProfessionalExperience experiences={portfolioData?.professionalExperience} />
             </div>
             <div ref={certification} className='pt-5'>
@@ -53,7 +53,7 @@ function App() {
             <div ref={displayEducation} className='pt-5'>
               <DisplayEducation educations={portfolioData?.education} />
             </div>
-            <div ref={personalProject} className='pt-5'>
+            <div ref={personalProject} className='pt-5 pb-5'>
               <PersonalProjects personalProject={portfolioData?.personalProjects} />
             </div>
           </Col>
