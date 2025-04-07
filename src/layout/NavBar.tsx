@@ -1,6 +1,6 @@
 import React, { RefObject } from "react";
 import { Container, Image, Nav, Navbar, NavbarBrand } from "react-bootstrap";
-import profilePhoto from "../public/assets/Ramya.jpg"
+import profilePhoto from "../public/assets/Pramoth.jpg"
 import { useNavigate } from "react-router-dom";
 
 interface Props {
@@ -31,7 +31,7 @@ export default function NavBar(cards: Props) {
                     <Image src={profilePhoto} onClick={TakeHome} alt="50*50" width="40" height="40" roundedCircle></Image>
                     <NavbarBrand className="">
                         <div className="mx-3" onClick={TakeHome}>
-                           Ramya Krishnasamy
+                           Pramoth Varsan Madhavan
                         </div>
                     </NavbarBrand>
                     {cards.summaryCard && <Nav.Link href="#home" onClick={() => HandleClick(cards.summaryCard)} className="text-white pt-2"> Summary </Nav.Link>}
