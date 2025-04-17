@@ -11,24 +11,23 @@
   },
   "professionalExperience": [
     {
-      "jobTitle": "Junior Software Developer",
-      "companyName": "SashasTrends Inc – Waterloo, ON",
-      "duration": "July 2024 – Mar 2025",
-      "productName": "Sashas Trends.com (C#|.Net Core 7):",
+      "jobTitle": "Design and development of coated metallic bipolar plates for proton exchange membrane fuel cells",
+      "companyName": "Precision Resource, Cambridge, ON – University of Waterloo, ON",
+      "duration": "May 2022 – Present",
+      "productName": "Nb-Ti Alloy/Pt Coated Metallic Bipolar Plates",
       "projectDescription": [
-        "Engineered a .Net Core MVC Content Management System utilizing patterns such as Dependency Injection (DI) to dynamically manage contents where content managers update the product in the database.",
-        "Collaborated with senior developers to build a highly scalable .NET Core 7 backend Web APIs with Entity Framework Core and MS-SQL Server to serve react application with authentication and authorization enabled.",
-        "Developed using Test-Driven Development (TDD) approach writing test cases using xUnit with coverage of 80% and documenting design for each production release, facilitating knowledge sharing across the organization.",
-        "Contributed to employing React SPA to craft a responsive and smooth client interface, integrating Redux for centralized state management and REST APIs for efficient and faster data fetching, reducing bounce rates. ",
-        "Designed database in SQL Server 2016 and created stored procedures, functions, and views to reduce the complication of front-end SQL Queries and triggers to enforce entity relationships."
+        "Improved corrosion resistance of SS316L by 2.5× at 25 °C and 0.5× at 80 °C, achieving 99.98% protective efficiency, exceeding DOE targets.",
+        "Increased in-plane electrical conductivity by 42.6% and thermal conductivity by 3.5%, both surpassing DOE technical benchmarks.",
+        "Decreased interfacial contact resistance (ICR) by 2.5× under 140 N/cm2 compaction, supporting compact and high-performance stack design.",
+        "Enhanced hydrophobicity with larger surface contact angles, improving long-term water management and material stability."
       ],
       "projectLink": [
         {
           "linkType": "url",
           "icon":"web",
-          "linkName": "Full Stack",
-          "linkDesc": "Website",
-          "linkUrl": "https://www.sashastrends.com/?srsltid=AfmBOops79KvCiIa98meta95JZZ3hrBqBGT-LIK5LZeI54X84SIpaSVA"
+          "linkName": "Link",
+          "linkDesc": "Journal Article",
+          "linkUrl": "https://doi.org/10.1016/j.enconman.2024.118536"
         }
       ]
     },
