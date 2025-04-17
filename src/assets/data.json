@@ -1,12 +1,13 @@
 {
   "summary": "Results-driven engineer with 4 years of research experience in Canada, specializing in electrochemical energy conversion systems for transportation, with proven success in cross-sector project leadership, advanced testing, and data-driven innovation in low-carbon technologies.",
   "skills": {
-    "programming": "C#, SQL, Typescript, HTML5, CSS3",
-    "backendWeb":"ASP.Net Core (MVC | Web API), React, Bootstrap",
-    "cloudServices": "AWS (SQS, Lambda), Docker",
-    "database": "Microsoft SQL server 16+, PostgreSQL",
-    "designPatterns":"Dependency Injection, Microservices, Domain-Driven Design",
-    "productivityTools": "Entity Framework, xUnit, .Net CLI, LINQ, Git, Jenkins CI/CD"
+    "Electrochemical Systems": "PEM Fuel Cells, PEM Water Electrolyzers, Li-ion Batteries",
+    "Characterization Techniques":"Potentiodynamic/Potentiostatic Polarization, EIS, LSV, CV, ICP-OES, SEM, EDX, TEM, XRD, XPS",
+    "Prototyping & Instrumentation": "Protective Coatings, MEA Fabrication, Fuel Cell Test Station, Potentiostat (Gamry), Goniometer, Four-point probe, Transient Plane Source",
+    "Programming & ML": "Python, MATLAB, Keras, TensorFlow, ANN, LSTM, XGB, Genetic Algorithm",
+    "Modelling & Simulation":"Siemens NX, Ansys Fluent, COMSOL, MATLAB, SOLIDWORKS",
+    "Hardware & Embedded Systems": "HDL for FPGA, VHDL, Intel Quartus, ModelSim",
+    "Design of Experiments (DoE)": "Minitab, ANOVA, Regression Modelling, RSM"
   },
   "professionalExperience": [
     {
